@@ -15,11 +15,13 @@ python 3.10.0 <= 3.12.0
 React
 
 ##백엔드
-Flask 3.1.2
-Werkzeug 3.1.3
+- Flask 3.1.2
+- Werkzeug 3.1.3
 
 # STT 모델 
-VOSK, Whisper, google stt
+- VOSK
+- Whisper
+- google stt
 
 #  완성되지 못한 부분
 - STT 기능 연결
