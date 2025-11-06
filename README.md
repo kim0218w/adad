@@ -1,4 +1,4 @@
-지능형SW codessey 문제 풀이 코드 올리는 곳
+# 지능형SW codessey 문제 풀이 코드 올리는 곳
 
 data_schema.py
 gemini_extractor.py 
@@ -15,4 +15,10 @@ python 3.10.0 <= 3.12.0
 # STT 모델 
 VOSK, Whisper, google stt
 
-#  
+#  완성되지 못한 부분
+-STT 기능 연결
+-파일 업데이트 기능 추가
+-DB를 통한 로그인 기능 
+-calendar 미리보기 
+-저장한 데이터 알림 방법 구체화 
+
