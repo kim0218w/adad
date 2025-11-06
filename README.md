@@ -6,6 +6,8 @@ gemini_extractor.py
 환경변수명 : GEMINI_API_KEY
 본인 gemini_api 사용해서 설정후 실행
 
+
+
 #개발환경 맞추기 
 python 3.10.0 <= 3.12.0
 
