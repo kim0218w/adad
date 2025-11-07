@@ -15,8 +15,8 @@
 ## 개발환경 맞추기 
 python 3.10.0 <= 3.12.0
 ### 프론트엔드
-- React-native  
-- expo 
+- React-native - 19.2.0
+
 
 ### 백엔드
 - Flask 2.4.4
