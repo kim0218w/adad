@@ -52,6 +52,11 @@ python 3.10.0 <= 3.12.0
 - openai-Whisper
 - ffpmg
 - google stt
+## 사용한 API
+
+- Gemini API
+- Google Oauth API
+- Google Calendar API
 
 ## 완성되지 못한 부분
 - STT 기능 연결
