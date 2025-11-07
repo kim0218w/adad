@@ -15,15 +15,17 @@
 ## 개발환경 맞추기 
 python 3.10.0 <= 3.12.0
 ### 프론트엔드
-React
+- React-native  
+- expo 
 
 ### 백엔드
-- Flask 3.1.2
+- Flask 2.4.4
 - Werkzeug 3.1.3
 
 ## STT 모델 
 - VOSK
-- Whisper
+- openai-Whisper
+- ffpmg
 - google stt
 
 ## 완성되지 못한 부분
